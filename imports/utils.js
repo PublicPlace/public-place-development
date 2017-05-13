@@ -6,5 +6,5 @@ export let greetUser = function (){
 };
 
 
-export let name = 'Michael Trompa'
+export let name = 'Michael T'
 export default 'Default val'
