@@ -1,0 +1,27 @@
+.item {
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  margin-top: 1.3rem;
+  padding: 1.3rem;
+}
+// item--last-item
+.item__message {
+  font-size: 1.3 rem;
+  font-style: italic;
+  font-weight: 300;
+  text-align: center;
+}
+// item__message--empty
+
+.item--position-1{
+background: $green;
+border-color: $green-alt;
+}
+.item--position-2{
+background: $red;
+border-color: $red-alt;
+}
+.item--position-3{
+background: $blue;
+border-color: $blue-alt;
+}
